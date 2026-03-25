@@ -1,6 +1,6 @@
 ﻿#define _CRT_SECURE_NO_WARNINGS // Visual Studio scanf 오류 방지 (반드시 첫 줄!)
 #include <stdio.h>
-#include <stdlib.h> // system("pause")를 사용하기 위함
+#include <stdlib.h>
 
 int main() {
     // 1. 문자열을 저장할 공간 (1차원 배열)
