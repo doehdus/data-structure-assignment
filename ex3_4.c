@@ -1,5 +1,5 @@
 ﻿#include <stdio.h>
-#include <listS.h>
+#include "listS.h"
 
 int main(void) {
     int list[MAX] = { 10, 20, 40, 50, 60, 70 };
